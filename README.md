@@ -1,2 +1,2 @@
 # odin-recipes
-This is the beginning of my odin recipes project. I will need to use the HTML and CSS skills I have learnt so far to create a simple web page for some recipes. I will also have to make this project accessible by others through Github.
+This is a simple web page containing some wraps and rolls appetizer recipe.
